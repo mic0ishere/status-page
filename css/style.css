@@ -40,14 +40,17 @@ body {
 
 .operational {
     color: #00ff62;
+    text-shadow: 0px 0px 30px rgba(0, 255, 98, 0.36);
 }
 
 .down {
     color: #ccff55;
+    text-shadow: 0px 0px 30px rgba(204, 255, 85, 0.36);
 }
 
 .down2 {
     color: #df4a4a;
+    text-shadow: 0px 0px 30px rgba(223, 74, 74, 0.36);
 }
 
 .fas {
@@ -65,4 +68,46 @@ body {
     margin: 0 auto;
     border-radius: 10px;
     box-shadow: 0 20px 60px rgb(0 0 0 / 10%);
+}
+
+@media screen and (max-width: 1100px) {
+    .card {
+        padding: 40px;
+        width: 500px;
+        background-color: #211936;
+    }
+    .maintext {
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .card {
+        padding: 40px;
+        width: 500px;
+        background-color: #211936;
+    }
+    .maintext {
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .card {
+        padding: 40px;
+        width: 200px;
+        background-color: #211936;
+    }
+    .maintext {
+        text-align: center;
+        color: white;
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+    }
 }
