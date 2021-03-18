@@ -1,6 +1,8 @@
-<h1 style="text-align:center;"> Status Page Template by Diffuse Network </h1>
-<h2 style="text-align:center;"> Inspired by UPTIMEROBOT status site </h2>
+# Status Page Template by Diffuse Network
+## Inspired by [UptimeRobot](https://uptimerobot.com/statuspage)'s status site
 
-<img src="https://imgur.com/wbxmG53.png">
-<img src="https://imgur.com/OPD2sVp.png">
-<img src="https://imgur.com/hX9AigV.png">
+![](https://imgur.com/wbxmG53.png)
+# 
+![](https://imgur.com/OPD2sVp.png)
+# 
+![](https://imgur.com/hX9AigV.png)
