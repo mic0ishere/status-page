@@ -1,16 +1,14 @@
-<center>
-
 # Status Page Template by Diffuse Network
 
-#### Inspired by [UptimeRobot](https://uptimerobot.com/statuspage)'s status site
-
-### [Download](https://github.com/diffuse-network/status-page/archive/refs/heads/main.zip)
+Inspired by [UptimeRobot](https://uptimerobot.com/statuspage)'s status site
 
 ### [Examples](#examples-1)
 
-![Banner](/banner.png)
+### [Download](https://github.com/diffuse-network/status-page/archive/refs/heads/main.zip)
 
-</center>
+<div align="center">
+  <img src="banner.png">
+</div>
 
 ## Examples
 
