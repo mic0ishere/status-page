@@ -19,95 +19,95 @@ Author: Remixiak (CEO @ DIFFUSE NETWORK)
 Site: https://remixiak.pl
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
 body {
-    background: #0d1627;
+  background: #0d1627;
 }
 
 .maintext {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
 }
 
 .statustext {
-    color: white;
-    font-size: 30px;
-    font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
 }
 
 .operational {
-    color: #00ff62;
-    text-shadow: 0px 0px 30px rgba(0, 255, 98, 0.36);
+  color: #00ff62;
+  text-shadow: 0px 0px 30px rgba(0, 255, 98, 0.36);
+}
+
+.some {
+  color: #ccff55;
+  text-shadow: 0px 0px 30px rgba(204, 255, 85, 0.36);
 }
 
 .down {
-    color: #ccff55;
-    text-shadow: 0px 0px 30px rgba(204, 255, 85, 0.36);
-}
-
-.down2 {
-    color: #df4a4a;
-    text-shadow: 0px 0px 30px rgba(223, 74, 74, 0.36);
+  color: #df4a4a;
+  text-shadow: 0px 0px 30px rgba(223, 74, 74, 0.36);
 }
 
 .fas {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 .card {
-    padding: 40px;
-    width: 1000px;
-    background-color: #211936;
+  padding: 40px;
+  width: 1000px;
+  background-color: #211936;
 }
 
 .status {
-    padding-top: -60px;
-    margin: 0 auto;
-    border-radius: 10px;
-    box-shadow: 0 20px 60px rgb(0 0 0 / 10%);
+  padding-top: -60px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 20px 60px rgb(0 0 0 / 10%);
 }
 
 @media screen and (max-width: 1100px) {
-    .card {
-        padding: 40px;
-        width: 500px;
-        background-color: #211936;
-    }
-    .maintext {
-        text-align: center;
-        color: white;
-        font-size: 30px;
-        font-family: 'Roboto', sans-serif;
-    }
+  .card {
+    padding: 40px;
+    width: 500px;
+    background-color: #211936;
+  }
+  .maintext {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+  }
 }
 
 @media screen and (max-width: 600px) {
-    .card {
-        padding: 40px;
-        width: 500px;
-        background-color: #211936;
-    }
-    .maintext {
-        text-align: center;
-        color: white;
-        font-size: 30px;
-        font-family: 'Roboto', sans-serif;
-    }
+  .card {
+    padding: 40px;
+    width: 500px;
+    background-color: #211936;
+  }
+  .maintext {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+  }
 }
 
 @media screen and (max-width: 400px) {
-    .card {
-        padding: 40px;
-        width: 200px;
-        background-color: #211936;
-    }
-    .maintext {
-        text-align: center;
-        color: white;
-        font-size: 15px;
-        font-family: 'Roboto', sans-serif;
-    }
+  .card {
+    padding: 40px;
+    width: 200px;
+    background-color: #211936;
+  }
+  .maintext {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+  }
 }
