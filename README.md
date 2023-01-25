@@ -8,7 +8,7 @@ Made by [ItsRemix](https://github.com/ItsRemix) and [mic0ishere](https://github.
 
 ## Pages
 
-- Up - [status-page/up][https://mic0ishere.github.io/status-page/pages/up.html)
+- Up - [status-page/up](https://mic0ishere.github.io/status-page/pages/up.html)
 - Down - [status-page/down](https://mic0ishere.github.io/status-page/pages/down.html)
 - Some - [status-page/some](https://mic0ishere.github.io/status-page/pages/some.html)
 
